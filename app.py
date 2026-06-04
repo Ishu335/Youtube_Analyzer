@@ -51,7 +51,7 @@ youtube_agent = Agent(
 
 # Example usage with different types of videos
 youtube_agent.print_response(
-    "Analyze this video: https://www.youtube.com/watch?v=duHhImuaZGU",
+    "Analyze this video: https://youtu.be/JkaxUblCGz0?si=vPhEoX2WsVSJ8QHi",
     stream=True,
 )
 
